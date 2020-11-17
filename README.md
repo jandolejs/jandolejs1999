@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'am Jan
+
+- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working for Ateli Development s.r.o
+- 😄 I don't really know what am I doing but ⚡ Fun fact: Its working
 
 <!--
 **jandolejs1999/jandolejs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
