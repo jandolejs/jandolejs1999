@@ -1,7 +1,7 @@
 ### Hi, I'am Jan
 
 - 🌱 I’m currently learning PHP
-- 🔭 I’m currently working for Ateli Development s.r.o
+- 🔭 I’m secretly working on Selenium Testing
 - 😄 I don't really know what am I doing but ⚡ Fun fact: Its working
 
 <!--
