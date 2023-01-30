@@ -1,8 +1,8 @@
 ### Hi, I'am Jan
 
-- 🌱 I’m currently learning PHP
-- 🔭 I’m working on Selenium Testing
-- 😄 I don't really know what am I doing but ⚡ Fun fact: Its working
+- 🌱 I’m currently learning Magento 2
+- 🔭 I’m working on Magento 1
+- 😄 I don't really know what I am doing but ⚡ Fun fact: Its working
 
 <!--
 **jandolejs1999/jandolejs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
